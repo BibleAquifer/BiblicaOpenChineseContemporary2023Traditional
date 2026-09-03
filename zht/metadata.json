@@ -28,8 +28,8 @@
 "showAdaptationNoticeForNonEnglish": false
 },
 "adaptation_notice": "",
-"resource_code": "Biblica®OpenChineseContemporaryBible2023Traditional",
-"date_created": "2026-08-20",
+"resource_code": "BiblicaOpenChineseContemporary2023Traditional",
+"date_created": "2026-09-03",
 "language": "zht",
 "localizations": [],
 "order": "canonical",
@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-08-20T12:14:06.288032"
+"dateCreated": "2026-09-03T09:56:49.924941"
 },
 "idAuthorities": {
 "aquifer": {
@@ -54,8 +54,8 @@
 "identification": {
 "primary": {
 "aquifer": {
-"Biblica®OpenChineseContemporaryBible2023Traditional": {
-"timestamp": "2026-08-20T12:14:06.288032"
+"BiblicaOpenChineseContemporary2023Traditional": {
+"timestamp": "2026-09-03T09:56:49.924941"
 }
 }
 },
