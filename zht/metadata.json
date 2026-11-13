@@ -4,7 +4,7 @@
 "resource_type": "Bible",
 "title": "Biblica® Open Chinese Contemporary Bible 2023 (Traditional)",
 "aquifer_name": "Biblica® Open Chinese Contemporary Bible 2023 (Traditional)",
-"version": "1.1.0",
+"version": "1.0.2",
 "collection_title": "Biblica® Open Chinese Contemporary Bible 2023 (Traditional)",
 "short_name": "BOCCB2023T",
 "license_info": {
@@ -41,7 +41,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-11-13T06:32:35.260052"
+"dateCreated": "2026-11-13T06:39:06.895045"
 },
 "idAuthorities": {
 "aquifer": {
@@ -55,7 +55,7 @@
 "primary": {
 "aquifer": {
 "BiblicaOpenChineseContemporary2023Traditional": {
-"timestamp": "2026-11-13T06:32:35.260052"
+"timestamp": "2026-11-13T06:39:06.895045"
 }
 }
 },
@@ -34022,18 +34022,5 @@
 ]
 }
 },
-"article_metadata": {},
-"alignment_metadata": {
-"alignment_source": "https://github.com/Clear-Bible/alignments-cmn/tree/main/data/alignments/BOCCB2023T",
-"alignment_ot_basis": "WLCM",
-"alignment_nt_basis": "SBLGNT",
-"licenses": [
-{
-"eng": {
-"name": "CC BY-SA 4.0",
-"url": "https://creativecommons.org/licenses/by-sa/4.0/"
-}
-}
-]
-}
+"article_metadata": {}
 }
